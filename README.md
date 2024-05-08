@@ -1,0 +1,1 @@
+Hello! my name is john or calixto, this code in python are in  portuguese(BR). focused in web-python, my first project in python is a test, probably can have erros in some libraries, i remember there is something with PyPDF!!
